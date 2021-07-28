@@ -32,7 +32,7 @@ Output: `observed.csv`
 
 ```bash
 python fastend_cpp_s.py observed.csv variants.csv --no-jacobian -t 4 -n 10 -o calculations.yaml
-```\
+```
 
 Output: `calculations.yaml`
 
